@@ -1,0 +1,15 @@
+package com.alcord.enums;
+
+public enum TripStatus {
+	
+	TRIP_BOOKED,
+	TRIP_BOOKED_ACCEPT,
+	PICKUP_START,
+	PICKUP_END,
+	TRIP_START,
+	TRIP_END,
+	TRIP_CANCELLED_DRIVER,
+	TRIP_CANCELLED_PASSENGER
+	
+	
+}

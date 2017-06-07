@@ -1,0 +1,16 @@
+package com.alcord.utility;
+
+
+
+public enum Authorities {
+
+    ROLE_ANONYMOUS,
+    ROLE_ADMIN,
+    ROLE_DRIVER,
+    ROLE_PASSENGER,
+    ROLE_VERIFICATION_SUPERVISER,
+    ROLE_VERIFICATION_ANALYST,
+    ROLE_ACCOUNTS_SUPERVISER,
+    ROLE_ACCOUNTS_ANALYST
+    
+}
